@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Sara Fatima A.K.A Bhaploo A.K.A my Loml",
+    valentineName: "Sara Fatima Meri Jaanaan A.K.A Bhaploo A.K.A my Loml",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,18 +22,18 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Kya aap mere se pyaar karti hain?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love youuu, sooo muuuch! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "THISSS MUUUCHHHH!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌷🌹", // The big question!
+            text: "Though every day is a Valentine's Day with you, will you be my Valentine on February 14th, 2026? 🌷🌹", // The big question!
             yesBtn: "YAAS!",                                             // Text for "Yes" button
             noBtn: "Nope"                                                 // Text for "No" button
         }
